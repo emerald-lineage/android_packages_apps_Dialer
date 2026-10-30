@@ -49,7 +49,7 @@
       android:inputType="textFilter"
       android:maxLines="1"
       android:hint="@string/dialer_hint_find_contact"
-      android:textColor="?android:attr/textColorSecondary"
+      android:textColor="?android:attr/textColorPrimary"
       android:textColorHint="?android:attr/textColorHint"
       android:textCursorDrawable="@drawable/custom_cursor"
       android:textSize="16sp"/>
